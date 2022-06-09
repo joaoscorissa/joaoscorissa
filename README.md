@@ -1,7 +1,7 @@
 ## Olá! Eu sou o João 👋
 
-- 🔭 Hoje trabalho como desenvolvedor Full Stack na <a href="https://www.innon.com.br" target="_blank">Innon</a><br>
-- 🌱 Atualmente curso Análise e Desenvolvimento de Sistemas
+- 🔭 Atualmente trabalho como desenvolvedor Full Stack na <a href="https://www.innon.com.br" target="_blank">Innon</a><br>
+- 🌱 Curso Análise e Desenvolvimento de Sistemas
 
 Antes de ingressar na universidade me formei como Técnico em Informática no Instituto Federal do Paraná, onde fui introduzido no universo da 
 programação e acabei me apaixonando pelo automação, tal área onde realizei diversos projetos voltados a IoT e hoje se tornou um hobbie que mantenho 
