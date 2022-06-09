@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João 👋
 
-- 🔭 Atualmente trabalho como desenvolvedor Full Stack na <a href="https://www.innon.com.br" target="_blank">Innon</a><br>
+- 🔭 Atualmente trabalho como desenvolvedor Full Stack na <a href="https://www.innon.com.br">Innon</a><br>
 - 🌱 Curso Análise e Desenvolvimento de Sistemas
 
 Antes de ingressar na universidade me formei como Técnico em Informática no Instituto Federal do Paraná, onde fui introduzido no universo da 
@@ -10,7 +10,7 @@ e levo projetos em paralelo com minha profissão como desenvolvedor, utilizando 
 microcontroladores e comunicação por meio de API com um servidor Django que armazena os dados em um banco de dados MySQl, o servidor realiza o controle 
 do estoque, controle de acesso aos usuários que possuem acesso físico ao almoxarifado por meio de cartões RFID, geração de relatórios gerados em tempo real 
 e também o armazenamento e estruturação dos dados, para mais detalhes do projeto 
-<a href="https://www.brazilianjournals.com/index.php/BRJD/article/view/45226" target="_blank">clique aqui</a>
+<a href="https://www.brazilianjournals.com/index.php/BRJD/article/view/45226">clique aqui</a>
 
 <div align="center">
   <a href="https://github.com/joao4gg">
