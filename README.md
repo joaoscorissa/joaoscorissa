@@ -6,7 +6,8 @@
 Antes de ingressar na universidade me formei como Técnico em Informática no Instituto Federal do Paraná, onde fui introduzido no universo da 
 programação e acabei me apaixonando pelo automação, tal área onde realizei diversos projetos voltados a IoT e hoje se tornou um hobbie que mantenho 
 e levo projetos em paralelo com minha profissão como desenvolvedor, utilizando os conhecimentos adquiridos em outras áreas para contribuir nos meus projetos.
-- O Principal projeto em andamento no momento é um sistema que visa realizar o controle e monitoramento de materiais de forma automatizada utilizando
+- O Sistema ao qual eu participo do desenvolvimento em meu trabalho envolve a criação de ferramentas para monitorar redes ópticas passivas e realizar o provisionamento dos equipamentos da rede, e gerir as operações diarias de provedores de internet, funcionando como um ERP e atuando também na parte financeira de geração de boletos, notas fiscais, integração com gateways de pagamento e outras diversas ferramentas relacionadas ao controle de processos internos de um ISP
+- Um dos projetos em andamento no momento é um sistema que visa realizar o controle e monitoramento de materiais de forma automatizada utilizando
 microcontroladores e comunicação por meio de API com um servidor Django que armazena os dados em um banco de dados MySQl, o servidor realiza o controle 
 do estoque, controle de acesso aos usuários que possuem acesso físico ao almoxarifado por meio de cartões RFID, geração de relatórios gerados em tempo real 
 e também o armazenamento e estruturação dos dados, para mais detalhes do projeto 
