@@ -1,5 +1,7 @@
 ## Olá! Eu sou o João 👋
 
+<a href="https://wakatime.com/@0973fcfd-55d4-4682-9c2d-609f2df3d6a1"><img src="https://wakatime.com/badge/user/0973fcfd-55d4-4682-9c2d-609f2df3d6a1.svg" alt="Total time coded since Feb 16 2022" /></a>
+
 - 🔭 Atualmente trabalho como desenvolvedor Full Stack na <a href="https://www.innon.com.br">Innon</a><br>
 - 🌱 Curso Análise e Desenvolvimento de Sistemas
 
